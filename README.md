@@ -1,7 +1,5 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello,%20I'm%20Youn&fontColor=1e90ff)
-
 ####  :wave: Welcome my github profile !
 
   

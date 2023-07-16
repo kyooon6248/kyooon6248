@@ -1,5 +1,5 @@
 <div align="center"> 
-####  :wave: Welcome my github profile !
+Welcome my github profile !
 
   
  <br/>
